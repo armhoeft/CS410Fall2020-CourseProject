@@ -14,4 +14,5 @@ RUN pip install -r /tmp/requirements.txt
 WORKDIR /$PROJECTDIR
 
 # Set default start command
+ENV EXECFILE=$EXECFILE
 CMD python $EXECFILE
