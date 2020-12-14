@@ -10,9 +10,7 @@ To use this container and process, simply execute `./run-assignment.sh`. This co
 
 To build the container manually, run the following:
 
-    ```{bash}
     docker build -t cs410:mp1 .
-    ```
 
 Two optional build arguments can be specified to make this build process generic to other assignments:
 
@@ -28,7 +26,4 @@ Two optional build arguments can be specified to make this build process generic
 
 To run the container manually, execute the following:
 
-    ```{bash}
     docker run --rm --name test-mp1 cs410:mp1
-    ```
-
