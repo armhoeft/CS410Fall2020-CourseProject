@@ -18,7 +18,7 @@ For required project submissions, see `project-artifacts`.
 
 ### Recommendations for a Reviewer
 
-1. Watch the video: <https://google.com>
+1. Watch the video: <https://drive.google.com/file/d/19wAVeWPICQYA1XFTOhIhv-6bQbbniu69/view?usp=sharing>
 2. Look around this repo and: <https://github.com/armhoeft/metapy-container>.
 3. Read: <https://github.com/armhoeft/metapy-container/blob/main/README.md>
 4. Read: <https://github.com/armhoeft/CS410Fall2020-CourseProject/blob/main/sample-assignment/README.md>
